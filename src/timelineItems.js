@@ -73,8 +73,8 @@ const timelineItems = [
   },
   {
     id: 13,
-    start: "2021-01-12",
-    end: "2021-02-16",
+    start: "2021-01-20",
+    end: "2021-02-10",
     name: "13 item with a super long name"
   },
   {
@@ -83,12 +83,18 @@ const timelineItems = [
     end: "2021-02-02",
     name: "Fifth item with a super long name"
   },
-  // {
-  //   id: 15,
-  //   start: "2021-02-20",
-  //   end: "2021-03-010",
-  //   name: "15 item with a super long name"
-  // }
+  {
+    id: 15,
+    start: "2021-02-20",
+    end: "2021-02-27",
+    name: "15 item with a super long name"
+  },
+  {
+    id: 16,
+    start: "2021-02-20",
+    end: "2021-03-15",
+    name: "March event number 16 item with a super long name"
+  }
 ];
 
 export default timelineItems;
