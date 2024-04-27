@@ -33,7 +33,7 @@ const timelineItems = [
     id: 6,
     start: "2021-01-12",
     end: "2021-02-16",
-    name: "6 item with a super long name"
+    name: "Fourth item with a super long name"
   },
   {
     id: 7,
@@ -73,27 +73,15 @@ const timelineItems = [
   },
   {
     id: 13,
-    start: "2021-01-20",
-    end: "2021-02-10",
-    name: "13 item with a super long name"
+    start: "2021-01-12",
+    end: "2021-02-16",
+    name: "Fourth item with a super long name"
   },
   {
     id: 14,
     start: "2021-02-01",
     end: "2021-02-02",
     name: "Fifth item with a super long name"
-  },
-  {
-    id: 15,
-    start: "2021-02-20",
-    end: "2021-02-27",
-    name: "15 item with a super long name"
-  },
-  {
-    id: 16,
-    start: "2021-02-20",
-    end: "2021-03-15",
-    name: "March event number 16 item with a super long name"
   }
 ];
 

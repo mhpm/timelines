@@ -1,8 +1,17 @@
-# React + Vite
+## MICHELLE PEREZ MORALES: TIMELINES PROJECT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- How long you spent on the assignment: 3 days
+- What you like about your implementation: Clean, readable code, the way how I render the timelines(I enjoyed the challenge)
+- What you would change if you were going to do it again: Maybe I will try doing this using <canva> for a better performance.
+- How you made your design decisions. For example, if you looked at other timelines for inspiration, please note that: Nope, This is my own design. It is not the best but I tried =)
+- How you would test this if you had more time: probably comparing the order how events array was created. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## INSTRUCTIONS
+for install dependencies in main directory
+```shell
+npm install
+```
+for run de project
+```shell
+npm run dev
+```
